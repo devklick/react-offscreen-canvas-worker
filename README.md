@@ -1,5 +1,5 @@
 <h1 align="center">
-    React Offscreen Canvas Starter
+    React Offscreen Canvas Worker
 </h1>
 
 <p align="center">
